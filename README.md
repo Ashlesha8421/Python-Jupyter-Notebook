@@ -4,8 +4,12 @@
 * 2.Output using the print() function.
 
 # 2) Python Variable
-Variable is nothing but
+* 1.What is Variables ?
+* 2.Valid and invalid ways of assigning variables.
+
 # 3) Numbers
+* 1.Python Numbers
+
 # 4) String
 # 5) Conditional
 # 6) Functions
