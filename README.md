@@ -11,5 +11,9 @@
 * 1.Python Numbers
 
 # 4) String
+* 1.How to create a string and assign it to a variable.
+* 2.String common methods.
+* 3.Truth value testing of String.
+
 # 5) Conditional
 # 6) Functions
