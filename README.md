@@ -16,4 +16,10 @@
 * 3.Truth value testing of String.
 
 # 5) Conditional
+* 1.Loop
+* 2.While statement
+* 3.Nested for loops
+* 4.Creating if blocks
+* 5.Nested if statements
+
 # 6) Functions
