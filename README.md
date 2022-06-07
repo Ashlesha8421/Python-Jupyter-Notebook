@@ -15,7 +15,7 @@
 * 2.String common methods.
 * 3.Truth value testing of String.
 
-# 5) Conditional
+# 5) Control Structures
 * 1.Loop
 * 2.While statement
 * 3.Nested for loops
